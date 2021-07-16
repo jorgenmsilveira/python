@@ -1,0 +1,15 @@
+Tamanho da janela de simulacao:
+500 500
+Localizacao das mesas e balcao:
+Balcao 30.0 82.0 50.0 95.0
+Circulo 25.0 30.0 5.0
+Circulo 40.0 40.0 4.0
+Circulo 70.0 60.0 5.0
+Circulo 10.0 20.0 7.0
+Circulo 80.0 50.0 4.0
+Circulo 55.5 23.0 5.0
+Circulo 20.0 40.0 3.0
+Retangulo 40.5 62.5 20.0 50.0
+Retangulo 80.0 6.0 85.0 12.0
+Retangulo 60.0 30.0 80.0 40.0
+Retangulo 20.0 4.0 24.0 7.0
