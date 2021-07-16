@@ -2,7 +2,7 @@
 """Este programa simula um robô de serviços, num restaurante com uma mesa quadrada.
 Quando o utilizador clica na área da mesa, o robô inicia o serviço, consistindo
 numa ida à mesa para receber um pedido, regresso ao balcão para preparar o pedido,
-entrega do pedido à mesa, e regresso ao balcão."""   
+entrega do pedido à mesa, e regresso ao balcão."""
 
 from graphics import*
 import time
@@ -26,8 +26,8 @@ class Mesa: #Define a mesa
         self.mesa.draw(win)
         self.raioMesa=raioMesa
         self.centroMesa=centroMesa
- 
-class Robot: 
+
+class Robot:
     def __init__(self, win, centro, raio): #Define o robot
         self.robot=Circle(centro, raio)
         self.robot.setFill('gold')
