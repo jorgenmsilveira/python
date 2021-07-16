@@ -1,3 +1,4 @@
+
 """Este programa simula um robô de serviços, num restaurante com uma mesa quadrada.
 Quando o utilizador clica na área da mesa, o robô inicia o serviço, consistindo
 numa ida à mesa para receber um pedido, regresso ao balcão para preparar o pedido,
